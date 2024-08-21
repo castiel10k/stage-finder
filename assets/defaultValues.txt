@@ -1,0 +1,10 @@
+Mikaël Boucher;Jean Coutu;4885 Henri-Bourassa Blvd W #731,Montreal,QC,H3L 1P3
+Thomas Caron;Garage Tremblay;10142 Boul. Saint-Laurent,Montréal,QC,H3L 2N7
+Simon Gingras;Pharmaprix;3611 Rue Jarry E, Montréal,QC,H1Z 2G1
+Kevin Leblanc;Alimentation Générale;1853 Chem. Rockland,Mont-Royal,QC,H3P 2Y7
+Cédric Masson;Auto Repair;8490 Rue Saint-Dominique,Montréal,QC,H2P 2L5
+Vanessa Monette;Subway;775 Rue Chabanel O, Montréal,QC,H4N 3J7
+Vincent Picard;Métro;1331 Blvd. de la Côte-Vertu,Saint-Laurent,QC,H4L 1Z1
+Mélissa Poulain;Épicerie les Jardinières;10345 Ave Christophe-Colomb,Montreal,QC,H2C 2V1
+Diego Vargas;Boucherie Marien;1499-1415 Rue Jarry E,Montréal,QC,H2E 1A9
+Geneviève Tremblay;IGA;8921 Rue Lajeunesse,Montréal,QC,H2M 1S1
